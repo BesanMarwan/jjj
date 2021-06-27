@@ -1,0 +1,445 @@
+@media (max-width:767px) {
+
+    .latest {
+        display: none;
+    }
+
+    .top-soc {
+        display: none;
+    }
+
+    .bars {
+        display: inline;
+        margin-top: 3px;
+    }
+
+    .euro {
+        display: none;
+    }
+
+    .top-social {
+        margin-left: 0px;
+        margin-right: 0px;
+        justify-content: flex-end
+            /*        margin-top:15px;*/
+    }
+
+    .wheather-box {
+        right: 54%;
+        top: 70px
+    }
+
+    .top-social a i {
+        margin-top: 17px;
+    }
+
+    .adv {
+        margin-bottom: 30px;
+    }
+
+    header .top-social i {
+
+        font-size: 14px !important;
+        margin-left: 10px;
+        padding: 0
+    }
+
+    .top-head {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    header .logo {
+        margin: 0px;
+        margin-right: -10px;
+    }
+
+    .news .new-box-lg {
+        margin-bottom: 30px;
+    }
+
+    .news .new-box-lg .img-new img {
+
+        height: 280px;
+    }
+
+    .ecno1 {
+        margin-bottom: 30px;
+    }
+
+    .ecno-world {
+        margin-top: 60px
+    }
+
+    .read-title {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .read-box {
+        margin-bottom: 30px;
+    }
+
+    .travel-box-lg {
+        margin-right: 0px;
+        margin-bottom: 30px;
+        width: 100%;
+    }
+
+    .travel-box {
+        width: 100%;
+    }
+
+    .travel-box-lg img {
+        height: 200px;
+        width: 1400px !important;
+    }
+
+    .travel-text {
+        padding-left: 10px;
+    }
+
+    .travel-text-box {
+        margin-right: 0px;
+        margin-top: 30px;
+        width: 92.5% !important;
+    }
+
+    .travel-box {
+        margin-right: 30px;
+
+    }
+
+    .tra2-box {
+        margin-top: 30px;
+    }
+
+    .travel-box img {
+        width: 200% !important;
+    }
+
+    .travel-text {
+        width: 100%;
+    }
+
+    .es {
+        margin-top: 30px;
+    }
+
+    .estate .estate-box {
+        width: 96.5%
+    }
+
+    .tech-box-lg {
+        margin-bottom: 30px;
+    }
+
+    .tech-box-lg img {
+        height: 250px;
+    }
+
+    .tech-box-mo {
+        margin-bottom: 30px;
+    }
+
+    .cooktil-box-lg {
+        margin-top: 30px;
+    }
+
+    .cooktil-box-lg img {
+        height: 250px;
+    }
+
+    .copy-right {
+        display: block !important;
+        text-align: center;
+        font-size: 12px;
+    }
+
+    footer .logo {
+        margin-right: 50px;
+    }
+
+    footer .social {
+        margin-right: 55px;
+        margin-top: 30px;
+    }
+
+    .footer_main_title {
+        /*        text-align: center;*/
+        /*        text-align: center;*/
+        margin-top: 30px;
+    }
+
+    .footer_post {
+        margin-right: 30px;
+    }
+
+    .footer-menu {
+        margin-bottom: 0px;
+    }
+
+    .footer_main_title > div {
+        text-align: center
+    }
+
+    .footer_makes_sub_font {
+        margin-right: 25px;
+    }
+
+    footer a {
+        /*      margin-right:25px;  */
+    }
+
+    /*    start single post properities */
+    .news-box-related {
+        margin-right: 0px;
+    }
+
+    .news-box-related .travel-box {
+        margin-right: 0px
+    }
+
+    .news-box-related img {
+        /*        margin-right:-30px*/
+        width: 100% !important
+    }
+
+    .relate-box {
+        margin-right: 0px;
+    }
+
+    .share {
+        display: block !important;
+    }
+
+    .top-picture {
+        top: 319px;
+        padding: 0;
+        font-size: 14px
+    }
+
+    .share > div {
+        float: left
+    }
+
+    .date-publish {
+        display: none;
+    }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+
+
+    .top-soc {
+        display: none;
+    }
+
+    .bars {
+        display: inline;
+        margin-top: 3px;
+    }
+
+    .euro {
+        display: none;
+    }
+
+    .top-social {
+        margin-left: 0px;
+        margin-right: 0px;
+        justify-content: flex-end margin-top:15px;
+    }
+
+    .wheather-box {
+        right: 70%;
+        top: 86px
+    }
+
+    .top-social a i {
+        margin-top: 30px;
+    }
+
+    .bars {
+        margin-top: 15px
+    }
+
+    header .top-social i {
+
+        font-size: 14px !important;
+        margin-left: 10px;
+        padding: 0
+    }
+
+    .top-head {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    header .logo {
+        margin: 0px;
+        margin-right: -150px;
+    }
+
+    .cooktil-box-lg img {
+        height: 295px
+    }
+
+    .read-title {
+        width: 30%
+    }
+
+    .latest {
+        height: 440px;
+        overflow: scroll
+    }
+
+    .new-box .date {
+        font-size: 14px
+    }
+
+    .date {
+        font-size: 12px
+    }
+
+    .latest h6 {
+        font-size: 15px;
+    }
+
+
+    .new-box-lg img {
+        height: 440px !important
+    }
+
+    .tech-box-lg img {
+        height: 300px !important
+    }
+
+    .travel-text-box {
+        width: 120% !important;
+        overflow: hidden;
+        height: 420px
+    }
+
+    .travel-box {
+        margin-right: 15px
+    }
+
+    .travel-text-box .date {
+        font-size: 11px;
+    }
+
+    .travel-box h6 {
+        font-size: 14px;
+        padding-bottom: 10px
+    }
+
+    .travel-box .dateN {
+        display: none
+    }
+
+    footer .logo {
+        margin-right: 20px;
+        margin-top: 5px
+    }
+
+    /*    start single post page properities */
+    .news-box-related {
+        margin-right: 0px;
+    }
+
+    .news-box-related .travel-box {
+        margin-right: 0px
+    }
+
+    .news-box-related img {
+        /*        margin-right:-30px*/
+        width: 100% !important
+    }
+
+    .relate-box {
+        margin-right: 0px;
+    }
+
+    .top-picture {
+        top: 345px;
+    }
+
+
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1200px) {
+    .main-web {
+        margin: 0;
+    }
+
+    .navbar-nav {
+        margin-right: -30px;
+    }
+
+    .main-web a {
+        margin-left: 15px;
+
+
+    }
+
+    header .logo {
+        /*        margin-right:-200px*/
+    }
+
+    .main-web #basic {
+        margin-right: 0px !important
+    }
+
+    .wheather-box {
+        right: 71%;
+        top: 86px
+    }
+
+    .latest {
+        height: 509px;
+    }
+
+    .new-box-lg img {
+        height: 509px !important;
+    }
+
+    .tech-box-lg img {
+        height: 458px
+    }
+
+    .cooktil-box-lg img {
+        height: 338px;
+    }
+
+    .travel-text-box {
+        height: 420px;
+        /*        overflow:scroll;*/
+    }
+
+    footer .logo {
+        margin-right: 10px;
+    }
+
+    /*    start single post page properities */
+    .news-box-related {
+        margin-right: 0px;
+    }
+
+    .news-box-related .travel-box {
+        margin-right: 0px
+    }
+
+    .news-box-related img {
+        /*        margin-right:-30px*/
+        width: 100% !important
+    }
+
+    .relate-box {
+        margin-right: 0px;
+    }
+
+    .top-picture {
+        top: 395px;
+    }
+
+}
